@@ -10,4 +10,3 @@ const superbowlWin = function(record) {
     return win.year;
   }
 }
-
